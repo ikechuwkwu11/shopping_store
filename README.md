@@ -1,2 +1,31 @@
-# shopping_store
-This is a shopping store were i created the backend using flask i did not do much on the frontend because i am not a frontend developer. i clearly know the bases which is what is what i did. But the back end is what i did using flask and SQLALCHEMY to build the db... thank you
+ Shopping Store (Flask App)
+
+A simple and functional shopping store web application built with **Flask**. This project allows users to browse products, manage items as an admin, and handle product data in an intuitive, web-based interface.
+
+What It Does
+
+This Flask-based Shopping Store app is a basic e-commerce-style platform designed to demonstrate the core functions of a product catalog system:
+
+For Regular Users:
+- View a list of available products
+- Search for products by name or category
+- See product details (name, price, description, etc.)
+
+For Admins:
+- Add new products to the store
+- Edit existing product information
+- Delete products from inventory
+
+---
+
+Tech Stack
+
+- Backend: Python + Flask
+- Frontend: HTML, Jinja2 (Bootstrap optional)
+- Database: SQLite (via SQLAlchemy)
+- Forms: Flask-WTF
+- Session/Auth: Flask-Login (if implemented)
+
+Project Structure
+
+
