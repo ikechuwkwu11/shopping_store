@@ -6,7 +6,7 @@ from werkzeug.security import generate_password_hash,check_password_hash
 from FLASKER.hello import Users
 
 app = Flask(__name__)
-app.secret_key = "iyke"
+app.secret_key = " "
 app.config['SQLALCHEMY_DATABASE_URI'] = "sqlite:///shop.db"
 db = SQLAlchemy(app)
 
