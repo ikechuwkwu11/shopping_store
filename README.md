@@ -1,19 +1,19 @@
-#🛒 Shopping Store (Flask App)
+# 🛒 Shopping Store (Flask App)
 
 A simple and functional shopping store web application built with Flask. This project allows users to browse products, while admins can manage inventory through an intuitive, web-based interface.
 
-🚀 Features
+## 🚀 Features
 👤 For Regular Users:
 - Browse a list of available products
 - Search products by name or category
 - View product details (name, price, description, etc.)
 
-🔐 For Admins:
+### 🔐 For Admins:
 - Add new products to the store
 - Edit existing product information
 - Delete products from inventory
 
-🛠 Tech Stack
+#### 🛠 Tech Stack
 - Backend: Python, Flask
 - Frontend: HTML, Jinja2 (Bootstrap optional)
 - Database: SQLite (via SQLAlchemy)
