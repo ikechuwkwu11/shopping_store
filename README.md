@@ -16,11 +16,15 @@ A simple and functional shopping store web application built with Flask. This pr
 
 ### 🛠 Tech Stack
 ---
-- Backend: Python, Flask
-- Frontend: HTML, Jinja2 (Bootstrap optional)
-- Database: SQLite (via SQLAlchemy)
-- Forms: Flask-WTF
-- Authentication: Flask-Login (if implemented)
+| Layer    | Technology             |
+| -------- | ---------------------- |
+| Backend  | Python, Flask          |
+| Frontend | HTML, Jinja2           |
+| Styling  | Bootstrap (optional)   |
+| Database | SQLite + SQLAlchemy    |
+| Forms    | Flask-WTF              |
+| Auth     | Flask-Login (optional) |
+
 
  ### 📌 Notes
  ---
